@@ -1,0 +1,23 @@
+#gol_wal_meta_box_log{
+	line-height: 30px;
+}
+#gol_wal_meta_box_log .line{
+	display: block;
+}
+
+.gol_wal_flag{
+	padding: 5px;
+	border-radius: 5px;
+}
+.gol_wal_flag.user{
+	background: #FFCDE6;
+}
+.gol_wal_flag.what{
+	background: #E1FFDD;
+}
+.gol_wal_flag.value{
+	background: #EBDEFF;
+}
+.gol_wal_flag.for{
+	background: #FF9BA8;
+}
